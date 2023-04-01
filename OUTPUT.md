@@ -1,0 +1,78 @@
+## BasicCalculationTest
+
+JUnit version 4.12
+.............
+Time: 0.008
+
+OK (13 tests)
+
+
+## MassCalculatorTest
+
+JUnit version 4.12
+.....
+Time: 0.006
+
+OK (5 tests)
+
+## AdvancedCalculationTest
+
+JUnit version 4.12
+...............
+Time: 0.012
+
+OK (15 tests)
+
+
+
+## FinancialCalculator.java
+
+JUnit version 4.12
+...............
+Time: 0.008
+
+OK (15 tests)
+
+
+## GradeCalculatorTest
+
+JUnit version 4.12
+.........
+Time: 0.007
+
+OK (9 tests)
+
+
+## TemperatureCalculatorTest
+
+JUnit version 4.12
+.............
+Time: 0.008
+
+OK (13 tests)
+
+## TimeCalculatorTest
+
+JUnit version 4.12
+.........
+Time: 0.006
+
+OK (9 tests)
+
+
+## CalculateMaxHeartRateParameterizedTest
+
+JUnit version 4.12
+....
+Time: 0.009
+
+OK (4 tests)
+
+
+## GeometricsCalculatorTest
+
+JUnit version 4.12
+.....
+Time: 0.007
+
+OK (5 tests)
